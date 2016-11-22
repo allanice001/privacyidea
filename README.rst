@@ -1,13 +1,13 @@
 privacyIDEA
 ===========
 
-.. image:: https://travis-ci.org/privacyidea/privacyidea.svg?branch=master
+.. image:: https://travis-ci.org/allanice001/privacyidea.svg?branch=master
     :alt: Build Status
-    :target: https://travis-ci.org/privacyidea/privacyidea
+    :target: https://travis-ci.org/allanice001/privacyidea
 
-.. image:: https://circleci.com/gh/privacyidea/privacyidea/tree/master.svg?style=shield&circle-token=:circle-token
+.. image:: https://circleci.com/gh/allanice001/privacyidea/tree/master.svg?style=shield&circle-token=:circle-token
     :alt: CircleCI
-    :target: https://circleci.com/gh/privacyidea/privacyidea
+    :target: https://circleci.com/gh/allanice001/privacyidea
 
 .. image:: https://codecov.io/github/privacyidea/privacyidea/coverage.svg?branch=master
     :target: https://codecov.io/github/privacyidea/privacyidea?branch=master
@@ -16,37 +16,37 @@ privacyIDEA
 ..    :alt: Downloads
 ..    :target: https://pypi.python.org/pypi/privacyidea/
     
-.. image:: https://img.shields.io/pypi/v/privacyidea.svg
-    :alt: Latest Version
-    :target: https://pypi.python.org/pypi/privacyidea/
+.. .. image:: https://img.shields.io/pypi/v/privacyidea.svg
+..     :alt: Latest Version
+..     :target: https://pypi.python.org/pypi/privacyidea/
     
 .. image:: https://img.shields.io/github/license/privacyidea/privacyidea.svg
     :alt: License
     :target: https://pypi.python.org/pypi/privacyidea/
     
-.. image:: https://readthedocs.org/projects/privacyidea/badge/?version=latest
-    :alt: Documentation
-    :target: http://privacyidea.readthedocs.org/en/latest/
+.. .. image:: https://readthedocs.org/projects/privacyidea/badge/?version=latest
+..     :alt: Documentation
+..     :target: http://privacyidea.readthedocs.org/en/latest/
 
-.. .. image:: https://codeclimate.com/github/privacyidea/privacyidea/badges/gpa.svg
-..    :alt: Code Climate
+.. .. .. image:: https://codeclimate.com/github/privacyidea/privacyidea/badges/gpa.svg
+.. ..    :alt: Code Climate
 ..    :target: https://codeclimate.com/github/privacyidea/privacyidea
 
-.. image:: https://www.quantifiedcode.com/api/v1/project/c2e431a6764443268aa0eddb0da6b1fb/badge.svg
-  :target: https://www.quantifiedcode.com/app/project/c2e431a6764443268aa0eddb0da6b1fb
-  :alt: Code issues
+.. .. image:: https://www.quantifiedcode.com/api/v1/project/c2e431a6764443268aa0eddb0da6b1fb/badge.svg
+..   :target: https://www.quantifiedcode.com/app/project/c2e431a6764443268aa0eddb0da6b1fb
+..   :alt: Code issues
 
-.. image:: https://api.codacy.com/project/badge/grade/d58934978e1a4bcca325f2912ea386ff
-    :alt: Codacy Badge
-    :target: https://www.codacy.com/app/cornelius-koelbel/privacyidea
+.. .. image:: https://api.codacy.com/project/badge/grade/d58934978e1a4bcca325f2912ea386ff
+..     :alt: Codacy Badge
+..     :target: https://www.codacy.com/app/cornelius-koelbel/privacyidea
     
-.. image:: http://issuestats.com/github/privacyidea/privacyidea/badge/pr?style=flat
-    :alt: Issue stats
-    :target: http://issuestats.com/github/privacyidea/privacyidea
+.. .. image:: http://issuestats.com/github/privacyidea/privacyidea/badge/pr?style=flat
+..     :alt: Issue stats
+..     :target: http://issuestats.com/github/privacyidea/privacyidea
 
-.. image:: http://issuestats.com/github/privacyidea/privacyidea/badge/issue?style=flat
-    :alt: Issue stats
-    :target: http://issuestats.com/github/privacyidea/privacyidea
+.. .. image:: http://issuestats.com/github/privacyidea/privacyidea/badge/issue?style=flat
+..     :alt: Issue stats
+..     :target: http://issuestats.com/github/privacyidea/privacyidea
     
 privacyIDEA is an open solution for strong two-factor authentication like 
 OTP tokens, SMS, smartphones or SSH keys.
